@@ -2,17 +2,17 @@ Cloud Native Application Deployment and Monitoring
 This project demonstrates the deployment of a Node.js application using Google Kubernetes Engine (GKE) and the integration of monitoring and visibility tools such as Stackdriver and Prometheus. The application is containerized using Docker and deployed on a GKE cluster for scalability and reliability.
 
 Table of Contents
-Project Overview
+- Project Overview
 
-Technologies Used
+- Technologies Used
 
-Deployment Steps
+- Deployment Steps
 
-Monitoring Setup
+- Monitoring Setup
 
-Challenges Faced
+- Challenges Faced
 
-Conclusion
+- Conclusion
 
 Project Overview
 This project involves the deployment of a Node.js application to Google Kubernetes Engine (GKE), using Google Cloud services such as Google Container Registry (GCR) for storing the Docker image and Google Cloud SDK for managing the GKE cluster. The application is also monitored using Stackdriver for logging and monitoring, with Prometheus integrated for advanced metrics collection.
